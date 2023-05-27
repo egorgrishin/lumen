@@ -1,0 +1,9 @@
+/keys
+/app/Core/Keys
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+composer.lock
